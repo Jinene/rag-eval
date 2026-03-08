@@ -1,0 +1,9 @@
+langchain
+faiss-cpu
+openai
+ragas
+pandas
+numpy
+python-dotenv
+tqdm
+sentence-transformers
