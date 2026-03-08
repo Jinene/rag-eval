@@ -1,0 +1,9 @@
+Retrieval Augmented Generation (RAG) is a technique that combines document retrieval with text generation.
+
+Vector databases store embeddings and allow similarity search.
+
+Embeddings convert text into numerical vectors representing semantic meaning.
+
+Large language models can generate answers but may hallucinate without grounding.
+
+RAG reduces hallucination by grounding answers in retrieved documents.
